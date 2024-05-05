@@ -19,7 +19,7 @@ recent study by Long Island University highlighted that LLMs often
 perform poorly in medical contexts, potentially leading to harmful
 misguidance for users. To address this, our research focuses on fine-
 tuning the Llama 2 7B, a transformer-based, decoder-only model,
-using transcripts from real patient-doctor interactions. Our objective
+using transcripts from  patient-doctor interactions. Our objective
 was to enhance the model’s accuracy and precision in responding
 to medical queries. We fine-tuned the model using a supervised
 approach, emphasizing domain-specific nuances captured in the
